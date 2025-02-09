@@ -1,0 +1,18 @@
+
+[
+    {
+        "link": "https://www.linkedin.com/in/jesusmaqueradev/",
+        "label": "LinkedIn",
+        "name": "linkedin"
+    },
+    {
+        "link": "https://github.com/JesusMqr",
+        "label": "GitHub",
+        "name": "github"
+    },
+    {
+        "link": "https://mail.google.com/mail/?view=cm&to=jesusmaquera10@gmail.com",
+        "label": "jesusmaquera10@gmail.com",
+        "name": "email"
+    }
+]

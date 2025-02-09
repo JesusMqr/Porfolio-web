@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Desarrollo de API REST: Estándares y buenas prácticas",
+    "institution": "Platzi",
+    "date": "2024",
+    "certificateImageUrl": "../../public/images/certificates/Platzi API_REST_ESTANDARES_Y_BUENAS_PRACTICAS.jpg"
+    
+  },
+  {
+    "title": "Certificación en Artificial Intelligence with Machine Learning in Java",
+    "institution": "Oracle Academy",
+    "date": "2023",
+    "certificateImageUrl": "../../public/images/certificates/Oracle_Academy Artificial Intelligence with Machine Learning in Java.jpg"
+  },
+  {
+    "title": "Certificación en Database Design",
+    "institution": "Oracle Academy",
+    "date": "2022",
+    "certificateImageUrl": "../../public/images/certificates/Oracle_Academy Database Design.jpg"
+  },
+  {
+    "title": "Certificación en Java Foundations",
+    "institution": "Oracle Academy",
+    "date": "2022",
+    "certificateImageUrl": "../../public/images/certificates/Oracle_Academy Java Foundations.jpg"
+  }
+]

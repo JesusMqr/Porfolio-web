@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "title": "AtuComic App",
+        "description": "AtuComic App es un sistema innovador creado con Laravel 11 y Filament con el plugin Shield, diseñado para la gestión eficiente de series tipo cómic y manga, incluyendo usuarios, roles, permisos y relaciones de datos bien estructuradas.",
+        "status": "Completado",
+        "technologies": ["Laravel", "Filament","MySql","Tailwind", "Plugin Shield"],
+        "videoUrl": "https://www.youtube.com/embed/zO7lVr6tII0?si=wfliqo_VW9G6QnWu",
+        "thumbnailUrl": "../../public/images/atucomic_app.jpg",
+        "repoUrl": "https://github.com/JesusMqr/atucomic-app"
+        
+        
+    },
+    {
+        "id": "2",
+        "title": "AtuComic API",
+        "description": "AtuComic API es un proyecto para la gestión de series, que incluye un sistema de login, roles y permisos con Spatie, autenticación con Sanctum y versionado de la gestión de series con rutas, request, resources y collections, así como rutas públicas sin autenticación.",
+        "status": "Completado",
+        "technologies": ["Laravel","MySql"],
+        "videoUrl": false,
+        "thumbnailUrl": "url.com/atucomic-app-thumbnail",
+        "repoUrl": "https://github.com/JesusMqr/atucomic-api"
+        
+        
+    }
+]
+

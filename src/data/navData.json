@@ -1,0 +1,20 @@
+[
+    {
+        "label": "Inicio",
+        "link": "#home"
+    },
+    {
+        "label": "Proyectos",
+        "link": "#projects"
+    },
+    {
+        "label": "Experiencia",
+        "link": "#experience"
+    },
+    {
+        "label": "Educación",
+        "link": "#education"
+    }
+
+
+]
