@@ -1,5 +1,5 @@
 import { GitHubIcon } from "../../public/icons/GitHubIcon";
-import { LinkedinIcon } from "../../public/icons/LinkedInIcon";
+import { LinkedinIcon } from "../../public/icons/LinkedinIcon";
 import { MailIcon } from "../../public/icons/MailIcon";
 
 export const iconsMap={
