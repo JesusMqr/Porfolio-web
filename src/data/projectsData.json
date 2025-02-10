@@ -6,7 +6,7 @@
         "status": "Completado",
         "technologies": ["Laravel", "Filament","MySql","Tailwind", "Plugin Shield"],
         "videoUrl": "https://www.youtube.com/embed/zO7lVr6tII0?si=wfliqo_VW9G6QnWu",
-        "thumbnailUrl": "../../public/images/atucomic_app.jpg",
+        "thumbnailUrl": "/images/atucomic_app.jpg",
         "repoUrl": "https://github.com/JesusMqr/atucomic-app"
         
         
@@ -18,7 +18,7 @@
         "status": "Completado",
         "technologies": ["Laravel","MySql"],
         "videoUrl": false,
-        "thumbnailUrl": "url.com/atucomic-app-thumbnail",
+        "thumbnailUrl": "/images/atucomic-api.jpg",
         "repoUrl": "https://github.com/JesusMqr/atucomic-api"
         
         
