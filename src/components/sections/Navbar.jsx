@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import navData from '../../data/navData.json';
 import { MenuIcon } from "../../../public/icons/MenuIcon";
 import { CloseIcon } from "../../../public/icons/CloseIcon";
+import logo from "/images/logo.png"
 
 export function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -25,7 +26,7 @@ export function Navbar() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <a href="/" className="text-2xl font-bold text-cyan-400">
-            <img className="w-15" src="../../../public/images/logo.png" alt="" />
+            <img className="w-15" src="/images/logo.png" alt="Logo" />
           </a>
 
           {/* Desktop Menu */}
