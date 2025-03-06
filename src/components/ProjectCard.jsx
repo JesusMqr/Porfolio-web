@@ -13,9 +13,9 @@ export function ProjectCard({ project, onClick }) {
     >
       <div className="p-4">
         <img
-          src={project.thumbnailUrl || "/placeholder.svg"}
+          src={project.cover_image || "/placeholder.svg"}
           alt={project.title}
-          className="w-full h-48 object-cover  rounded-md mb-4"
+          className="w-full h-64 object-cover  rounded-md mb-4"
         />
         <h3 className="text-lg font-semibold mb-2 text-cyan-400">{project.title}</h3>
         <p className="text-sm text-slate-300 mb-2">{project.status}</p>

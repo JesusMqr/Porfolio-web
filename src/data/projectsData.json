@@ -2,26 +2,33 @@
     {
         "id": "1",
         "title": "AtuComic App",
-        "description": "AtuComic App es un sistema innovador creado con Laravel 11 y Filament con el plugin Shield, diseñado para la gestión eficiente de series tipo cómic y manga, incluyendo usuarios, roles, permisos y relaciones de datos bien estructuradas.",
+        "description": "AtuComic App es un sistema creado con Laravel 11 y Filament, diseñado para la gestión eficiente de series tipo cómic y manga, incluyendo usuarios, roles, permisos y relaciones de datos bien estructuradas.",
         "status": "Completado",
-        "technologies": ["Laravel", "Filament","MySql","Tailwind", "Plugin Shield"],
+        "technologies": ["Laravel", "Filament","MySql","Tailwind", "Shield"],
         "videoUrl": "https://www.youtube.com/embed/zO7lVr6tII0?si=wfliqo_VW9G6QnWu",
-        "thumbnailUrl": "/images/atucomic_app.jpg",
+        "cover_image": "/images/atucomic_app.jpg",
         "repoUrl": "https://github.com/JesusMqr/atucomic-app"
-        
-        
     },
     {
         "id": "2",
         "title": "AtuComic API",
-        "description": "AtuComic API es un proyecto para la gestión de series, que incluye un sistema de login, roles y permisos con Spatie, autenticación con Sanctum y versionado de la gestión de series con rutas, request, resources y collections, así como rutas públicas sin autenticación.",
+        "description": "AtuComic API es un proyecto backend para la gestión de series, que incluye un sistema de login, roles y permisos con Spatie, autenticación con Sanctum y versionado de la gestión de series con rutas, request, resources y collections, así como rutas públicas sin autenticación.",
         "status": "Completado",
         "technologies": ["Laravel","MySql"],
         "videoUrl": false,
-        "thumbnailUrl": "/images/atucomic-api.jpg",
+        "cover_image": "/images/atucomic_api.webp",
+        "array_image": false,
         "repoUrl": "https://github.com/JesusMqr/atucomic-api"
-        
-        
+    },
+    {
+        "id": "3",
+        "title": "AtuComic Web",
+        "description": "AtuComic Web es una aplicación frontend desarrollada con React. Esta aplicación consume la API de AtuComic API para mostrar series, capítulos e imágenes en un orden estructurado. Utiliza rutas públicas de la API para obtener y renderizar los datos de manera dinámica.",
+        "status": "Completado",
+        "technologies": ["React","Tailwind CSS"],
+        "videoUrl": false,
+        "cover_image": "/images/atucomic_web.png",
+        "array_image": ["/images/atucomic_web/1.png", "/images/atucomic_web/2.png", "/images/atucomic_web/3.png"],
+        "repoUrl": "https://github.com/JesusMqr/atucomic-web"
     }
 ]
-
