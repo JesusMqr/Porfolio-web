@@ -3,7 +3,7 @@ import { iconsMap } from "../../data/IconsMap";
 
 
 export const Hero = () => {
-
+  const description = "Técnico en Ingeniería de Software residente en Perú, especializado en Backend y con conocimientos en diversas áreas del desarrollo de software, incluyendo el Desarrollo Web Full-Stack. Siempre en busca de nuevas oportunidades para aprender y aplicar mis habilidades. Apasionado por el trabajo en equipo y el éxito de proyectos colaborativos."
   const cvUrl = 'https://drive.google.com/file/d/1iRE8oF5JoK2ekBVM0MaKcqJN4iRlrPu1/view?usp=drive_link'
 
   return (
@@ -14,7 +14,9 @@ export const Hero = () => {
           Desarrollador de Software
         </p>
         <p className="text-lg text-slate-300 mb-8">
-          Tecnico en Ingenieria de Software residente en Perú. Me especializo en el Desarrollo Web Full-Stack, siempre buscando la oportunidad de aprender y aplicar mis conocimientos adquiridos.
+          {
+            description
+          }
         </p>
         <div className="flex justify-center space-x-4 mb-8">
           {socialData.map((item, index) => (
